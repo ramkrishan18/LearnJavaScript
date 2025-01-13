@@ -20,9 +20,9 @@
 **[⬆ Back to Top](#table-of-contents)**
 
 ----------------------------------------------------------------------------------------------------------------------
-### SHORTCUTS
+# SHORTCUTS
 
-**html:5**
+### html:5
 Gives basic html skeleton:
 ```html
     <!DOCTYPE html>
@@ -37,4 +37,11 @@ Gives basic html skeleton:
     </body>
     </html>
 ```
+
+# XYZ
+
+## XYZ
+
+### XYZ
+
 
